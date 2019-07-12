@@ -51,20 +51,3 @@ else if (media >= 4.5) {
 else {
     console.log('Reprovado');
 }
-
-/* 
-Crie um sistema que aprove empréstimos. As regras do sistema são:
-
-. O usuário precisa ter entre 24 e 65 anos;
-. O usuário precisa ter uma renda mínima de R$1500,00;
-. O usuário precisa pedir um valor entre R$1000,00 e dez vezes a renda dele;
-
-O sistema deve informar se o empréstimo foi aprovado ou não.
-
-BÔNUS 1:
-Quando não aprovado, indique ao usuário o motivo.
-
-BÔNUS 2:
-Adicione uma porcentagem de juro ao seu sistema e em quantas parcelas o empréstimo será pago. Ao fim do sistema, indique  o valor de cada parcela e o valor total.
-    - O valor mínimo de parcelas é 3 vezes e o máximo em 12 vezes;
-*/
